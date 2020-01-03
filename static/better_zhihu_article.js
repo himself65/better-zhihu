@@ -1,4 +1,4 @@
-import $ from 'zepto'
+import $ from 'jquery'
 
 chrome.storage.sync.get(['zici_better_zhihu', 'better_zhihu_step'], function (item) {
   if (item.zici_better_zhihu !== '1') {

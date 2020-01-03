@@ -1,7 +1,7 @@
 /**
  * Created by never on 2017/5/26.
  */
-import $ from 'zepto'
+import $ from 'jquery'
 
 var step = 2000
 

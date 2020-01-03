@@ -1,7 +1,7 @@
 /**
  * Created by never on 2017/5/25.
  */
-import $ from 'zepto'
+import $ from 'jquery'
 
 // eslint-disable-next-line no-undef
 chrome.storage.sync.get(['zici_better_zhihu', 'better_zhihu_step'], function (item) {

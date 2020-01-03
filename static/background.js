@@ -14,7 +14,7 @@
 //
 // Setting SameSite=None ensures cross-site request to be sent successfully.
 // See https://web.dev/samesite-cookies-explained/ for details.
-import $ from 'zepto'
+import $ from 'jquery'
 
 chrome.cookies.set({
   name: 'SameSite',
