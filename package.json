@@ -17,5 +17,8 @@
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-chrome-extension": "^2.0.2",
     "standard": "^14.3.1"
+  },
+  "dependencies": {
+    "zepto": "^1.2.0"
   }
 }
