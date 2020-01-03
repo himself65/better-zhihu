@@ -1,0 +1,9 @@
+{
+  "name": "better-zhihu",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Himself65/better-zhihu.git",
+  "author": "himself65 <himself65@outlook.com>",
+  "license": "GPL3.0",
+  "private": true
+}
